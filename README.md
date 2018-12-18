@@ -12,4 +12,5 @@ For js resources, it works on "templateUrl" values.
 - 2018-12-18 v1.0.0 - Initial release.
 
 ## License
-Copyright (c) 2014 Daniel Furze. 
+Copyright (c) 2018 Saverio Pugliese. 
+Licensed under the MIT license
